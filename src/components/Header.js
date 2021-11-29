@@ -1,6 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons'
+import Subheader from '../components/Subheader'
 
 const Header = () => {
     return (
@@ -14,6 +15,7 @@ const Header = () => {
         Look through some of my work and experience! If you like what you 
         see and have project you need coded, don’t hesistate to contact me.
         </p>
+        <Subheader/>
     </div>
     )
 }
