@@ -5,6 +5,7 @@ import { faBars } from '@fortawesome/free-solid-svg-icons'
 const Header = () => {
     return (
     <div>
+        <img alt="hi ....." />
         <h1>
         Pretty code by ingenious person
         </h1>
