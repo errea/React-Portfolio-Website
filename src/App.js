@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
+import Bestwork from './components/Bestwork';
 function App() {
   return (
   <div>
@@ -11,6 +12,7 @@ function App() {
         <h1 className="text-blue-400 font-extrabold">Hello World!</h1>
         <p className="tracking-widest">This is my first React App.</p>
     </div> */}
+
   </div>
   
   );
