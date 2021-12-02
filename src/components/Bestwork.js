@@ -1,13 +1,17 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars } from '@fortawesome/free-solid-svg-icons'
 
-const Header = () => {
+const Bestwork = () => {
     return (
-    <div>
-        
-    </div>
+        <div class="grid grid-cols-3 gap-4">
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>1</div>
+        <div>9</div>
+      </div>
     )
 }
 
-export default Header
+export default Bestwork
