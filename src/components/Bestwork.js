@@ -15,7 +15,12 @@ const Bestwork = () => {
             </h1>
             <img src="https://" alt="" />
         </div>
-        <div>1</div>
+        <div>
+            <h1>
+                hbsbcsucu
+            </h1>
+            <img src="https://" alt="" />
+        </div>
         <div>1</div>
         <div>1</div>
         <div>1</div>
